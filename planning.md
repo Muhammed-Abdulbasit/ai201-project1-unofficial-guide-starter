@@ -43,11 +43,11 @@ I chose the domain Student reviews of CS professors at Georgia State University.
      A review-heavy corpus warrants different chunking than a long FAQ. -->
 
 **Chunk size:**
-
+350 characters
 **Overlap:**
-
+50 characters
 **Reasoning:**
-
+Reviews on RateMyProfessors are limited to 350 characters, so this chunk size ensures that each review is contained within a single chunk. The 50 character overlap allows for some context to be preserved between chunks without creating too much redundancy.
 ---
 
 ## Retrieval Approach
@@ -59,11 +59,11 @@ I chose the domain Student reviews of CS professors at Georgia State University.
      support, accuracy on domain-specific text, latency? -->
 
 **Embedding model:**
-
+The embedding model I plan to use is all-MiniLM-L6-v2 via sentence-transformers. This model is a good balance of performance and cost, and has been shown to work well for a variety of retrieval tasks.
 **Top-k:**
-
+5
 **Production tradeoff reflection:**
-
+If cost weren't a constraint, I would consider using a more advanced embedding model with better performance on domain-specific text, but this would increase latency and computational requirements.
 ---
 
 ## Evaluation Plan
@@ -75,11 +75,11 @@ I chose the domain Student reviews of CS professors at Georgia State University.
 
 | # | Question | Expected answer |
 |---|----------|-----------------|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
+| 1 | What do students say about Professor Week's teaching style? | Doesn't provide slides and mostly uses the textbook |
+| 2 | What do students say about Professor Alser's lecture quality? | Explains complex concepts well and makes them interesting |
+| 3 | What do students say about Professor Iraji's pop quizzes? | He gives them sometimes and they constitue 20% of the grade |
+| 4 | What do students say about Professor Sadasivuni's course organization? | Very disorganized and changes things last minute |
+| 5 | What do students say about Professor Kuzmin's extra credit opportunities? | Provides lots of extra credit points on exams |
 
 ---
 
@@ -89,9 +89,9 @@ I chose the domain Student reviews of CS professors at Georgia State University.
      Consider: noisy or inconsistent documents, missing source attribution, off-topic
      retrieval, chunks that split key information across boundaries. -->
 
-1.
+1. Noisy or inconsistent documents: Student reviews may contain typos, grammatical errors, and/or subjective opinions that could affect the quality of the embedding and retrieval. Sometimes students will vent frustration, use sarcasm, or say something that contradicts what other students say about the same professor, which could lead to inaccurate or misleading responses from the system.
 
-2.
+2. Missing source attribution: If the system doesn't properly attribute sources, users may not know where the information came from, reducing trust in the responses.
 
 ---
 
@@ -102,6 +102,9 @@ I chose the domain Student reviews of CS professors at Georgia State University.
      Label each stage with the tool or library you're using.
      You can use ASCII art, a Mermaid diagram, or embed a sketch as an image.
      You'll use this diagram as context when prompting AI tools to implement each stage. -->
+
+
+![alt text](<Document Ingestion to LLM-2026-06-09-204115-1.png>)
 
 ---
 
