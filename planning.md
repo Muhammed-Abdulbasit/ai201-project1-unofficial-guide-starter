@@ -11,6 +11,8 @@
 
 <!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
 
+I chose the domain Student reviews of CS professors at Georgia State University. This knowledge would be hard to find in a structured format, but is likely to be found in unstructured form on websites like RateMyProfessors. A system that can retrieve and summarize this information would be useful for students trying to choose classes or professors.
+
 ---
 
 ## Documents
@@ -20,16 +22,16 @@
 
 | # | Source | Description | URL or location |
 |---|--------|-------------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| 1 | ratemyprofessors.com | Student reviews of CS professors | https://www.ratemyprofessors.com/professor/2942443 |
+| 2 | ratemyprofessors.com | Student reviews of CS professors | https://www.ratemyprofessors.com/professor/458011 |
+| 3 | ratemyprofessors.com | Student reviews of CS professors | https://www.ratemyprofessors.com/professor/3126576 |
+| 4 | ratemyprofessors.com | Student reviews of CS professors | https://www.ratemyprofessors.com/professor/2782285 |
+| 5 | ratemyprofessors.com | Student reviews of CS professors | https://www.ratemyprofessors.com/professor/2910619 |
+| 6 | ratemyprofessors.com | Student reviews of CS professors | https://www.ratemyprofessors.com/professor/3075860 |
+| 7 | ratemyprofessors.com | Student reviews of CS professors | https://www.ratemyprofessors.com/professor/2056921 |
+| 8 | ratemyprofessors.com | Student reviews of CS professors | https://www.ratemyprofessors.com/professor/418488 |
+| 9 | ratemyprofessors.com | Student reviews of CS professors | https://www.ratemyprofessors.com/professor/2317655 |
+| 10 | ratemyprofessors.com | Student reviews of CS professors | https://www.ratemyprofessors.com/professor/1311577 |
 
 ---
 

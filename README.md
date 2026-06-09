@@ -9,18 +9,23 @@
 
 ## Domain
 
-<!-- What topic or category of knowledge does your system cover?
-     Why is this knowledge valuable, and why is it hard to find through official channels?
-     Example: "Student reviews of CS professors at [university] — useful because official
-     course descriptions don't reflect teaching style, exam difficulty, or workload." -->
+Student reviews of CS professors at Georgia State University.
 
 ---
 
 ## Document Sources
 
-<!-- List every source you collected documents from.
-     Be specific: include URLs, subreddit names, forum thread titles, or file names.
-     Aim for variety — sources that together cover different subtopics or perspectives. -->
+https://www.ratemyprofessors.com/professor/2942443
+https://www.ratemyprofessors.com/professor/458011
+https://www.ratemyprofessors.com/professor/3126576
+https://www.ratemyprofessors.com/professor/2782285
+https://www.ratemyprofessors.com/professor/2910619
+https://www.ratemyprofessors.com/professor/3075860
+https://www.ratemyprofessors.com/professor/2056921
+https://www.ratemyprofessors.com/professor/418488
+https://www.ratemyprofessors.com/professor/2317655
+https://www.ratemyprofessors.com/professor/1311577
+
 
 | # | Source | Type | URL or file path |
 |---|--------|------|-----------------|
