@@ -43,11 +43,11 @@ I chose the domain Student reviews of CS professors at Georgia State University.
      A review-heavy corpus warrants different chunking than a long FAQ. -->
 
 **Chunk size:**
-350 characters
+550 characters
 **Overlap:**
 50 characters
 **Reasoning:**
-Reviews on RateMyProfessors are limited to 350 characters, so this chunk size ensures that each review is contained within a single chunk. The 50 character overlap allows for some context to be preserved between chunks without creating too much redundancy.
+Reviews on RateMyProfessors are limited to 350 characters so originally I had each chunk at 350 characeters. Later when I asked AI to write the script to fetch the documnts, I realized it would be larger than 350 characters because we need to include the tags included in each review since that is how we can identify the professor that the review is about. This part is written by AI: To keep retrieval grounded, each chunk also carries an attribution header (`Professor Name | Department | Course`) plus a Tags/Grade suffix so the professor's identity survives into the embedded text. With those additions the longest assembled review is ~508 characters, so a 550-character window keeps 100% of reviews in a single chunk (one review = one chunk, no mid-sentence splits). The 50-character overlap preserves context across boundaries on any document longer than the window. Final corpus: 522 reviews across 10 professors → 522 chunks.
 ---
 
 ## Retrieval Approach

@@ -1,0 +1,578 @@
+Professor: Louis Henry
+Department: Computer Science
+School: Georgia State University
+Source: https://www.ratemyprofessors.com/professor/458011
+Overall rating: 3.1 | Difficulty: 2.4 | Would take again: 56.8182% | Reviews: 165
+======================================================================
+
+[Review 1] Course: 4370 | Date: 2026-06-02
+I took him for Mobile App Development. He is a great teacher that actually engages with the class. This was probably one of my favorite classes I've taken in school. If you actually want to learn some really important topics then take him. One thing I would say is he does assign a lot of work but if you keep up it is doable.
+Tags: Participation matters, Group projects, Lots of homework
+
+[Review 2] Course: 4370 | Date: 2026-01-14
+His class was pretty forward. Assignments were easy and projects weren't too time consuming. He's a really funny guy. However he can be passive aggressive at times, especially if you don't show up to class. If you put in the work it is an easy A+.
+Tags: Group projects, Lots of homework, Hilarious
+
+[Review 3] Course: 4370 | Date: 2025-12-13
+Ask help outside of class? Get accused of not showing up to class. Ignores emails. what a lad.
+Tags: Group projects, Lots of homework, So many papers
+
+[Review 4] Course: CSC4370 | Date: 2025-12-13
+I would NOT recommend this professor. He floods students with assignments every week, even during breaks, and is behind on grading. You can't get through one lecture without passive-aggressive remarks. His lectures are so unhelpful you could skip them entirely. If you must take this class, take it with David James.
+Tags: Group projects, Lecture heavy
+
+[Review 5] Course: 4370 | Date: 2025-12-05
+Extremely poor communication by email, Very passive aggressive!
+Tags: Lots of homework, So many papers, Lecture heavy
+
+[Review 6] Course: CSC4370 | Date: 2025-11-24
+Can't tell if hes passive aggressive or not. Assigns so much work even over the break assigned work, struggles to grade all of the assignments but keeps assigning more its crazy, Don't really need to showup to class his way of teaching sucked.
+Tags: Get ready to read, Lots of homework, Lecture heavy
+
+[Review 7] Course: CS1301 | Date: 2025-04-03
+The attendance is not mandatory and the exams are online on tophat.
+Tags: Gives good feedback, Hilarious
+
+[Review 8] Course: CSC1301 | Date: 2024-10-25
+Professor Henry's class can be hit or miss - his lectures are disorganized, but he's a chill guy and the assignments are fairly easy. If you're willing to teach yourself Python using resources like ZyBooks and unstuck ai, you can do well. Overall, a decent course.
+
+[Review 9] Course: 4370 | Date: 2024-10-02
+I'm also taking Louis Henry for 4360 (Mobile App Development). He gives out 1-2 assignments weekly thinking they'll take you 1-3 hours max (if you already know everything), not including the in-class assignments. Lectures are fine. Just be ready to commit a ton of time working on his assignments.
+Tags: Group projects, Lots of homework
+
+[Review 10] Course: 4370 | Date: 2024-04-20
+He doesn't know anything about cs. What kind of teacher would say store the password using encryption instead of hash? Every time students ask questions, the solution he knows is given by ChatGPT instead of his knowledge. Also he didn't teach anything in class. He just put the slide on the iCollege. We can do this at home. Why take the class?
+Tags: Group projects, Lots of homework
+
+[Review 11] Course: CSC1301 | Date: 2024-02-28
+He is an amazing and caring professor, He really tries his best. Sometimes there are technical difficulties like we had the server down, but it's not really his fault. He changes the schedule/homeworks a little too often, but he does give reasonable time to complete it.He is accessible outside of class and replies on Discord if u have questions.
+Tags: EXTRA CREDIT, Amazing lectures, Caring
+
+[Review 12] Course: CSC4370 | Date: 2023-12-12
+I don't know where the good reviews are coming from. Half-asses his lectures, copy and pastes work (from other universities and assignments). Slow grader. Unclear instructions. TEDIOUS work. I had a frontend internship this summer, enjoyed and learned a lot from it. This class made me hate anything related to web programming. Don't expect to learn.
+Tags: EXTRA CREDIT, Group projects, Lots of homework
+
+[Review 13] Course: csc3320 | Date: 2023-11-30
+His lectures are absolutely useless. Assignments & homeworks are unorganized with unclear instructions. The server we use was down for a while and rather than remove assignments, he threw them all at us at the end of the semester. He only uses discord for communication, nothing on iCollege. Don't take this class with him if you want to acc learn.
+Tags: Group projects, Lots of homework, Accessible outside class
+
+[Review 14] Course: CSC4370 | Date: 2023-10-25
+Professor Henry is an engaging professor and his class was fun and lighthearted. He can be a little all-over-the-place sometimes but his assignments are designed well and align with what you learn in class. I would definitely recommend his classes, but be prepared to do group projects.
+Tags: Group projects, Lots of homework, Accessible outside class
+
+[Review 15] Course: CSC4370 | Date: 2023-08-21
+The class was really easy while also learning alot of web dev concepts. He has a lecture video explain concepts and then you have to implement them yourself for the homework. Some self teaching require but that all computer science is
+Tags: Lots of homework
+
+[Review 16] Course: CSC1301 | Date: 2023-08-02
+His lectures are a MESS and you don't really learn stuff from it. He mainly uses a website called ZyBooks and unlike his lectures, ZyBooks is rly good. He's a chill guy, but the quizzes and tests are FILLED with typo, inaccuracies, and vague questions. In the end, he's a chill guy and I learned a lot from his class, but not because of his lectures.
+Tags: Participation matters, Test heavy, Online Savvy
+
+[Review 17] Course: CSC1301 | Date: 2023-07-24
+Class is super easy if you already know python, pass him if you don't. Don't rely on him to solely teach you python, bc his lecture is a mess. Cool guy, and funny. Quizzes/exams were online, hw on zybooks, classwork on tophat, 3-4 projects. It's a chill class, but you won't do yourself justice if you don't know basic python before taking him.
+
+[Review 18] Course: CS1301 | Date: 2023-07-03
+He cares for the students and is constituently available when needed. However, the tests are very hard, and often different from the classwork. Also, the use of TopHat is infuriating at times, making it difficult to feel like you are doing well. Zybooks is also a headache. But if you just do the work and study you should be fine.
+Tags: Participation matters, EXTRA CREDIT, Accessible outside class
+
+[Review 19] Course: CS1301 | Date: 2023-05-11
+His teaching style is just him pacing back and forth in front of class with a powerpoint behind him. He goes off topic regularly and he's pretty funny so it's not an incredibly boring lecture. You don't have to do a lot of work outside of class (I barely did and almost got an A). He's pretty lenient of late work and extra credit. 10/10
+Tags: EXTRA CREDIT, Hilarious, Online Savvy
+
+[Review 20] Course: CS1301 | Date: 2023-05-07
+Truly enjoyed taking his class and teaching style. Hands down one of the best CS classes/professors; gave us multiple extra credits and made the class fun. Even though I had to teach myself most things, I wish he was teaching 1302 next semester as well.
+Tags: Participation matters, EXTRA CREDIT, Respected
+
+[Review 21] Course: CSC4370 | Date: 2023-05-06
+Dr. Henry's class was by far the best CSc class I've ever taken. He's always there to help, and he's very understanding. The class was overall pretty interesting, and I enjoyed the projects that we got to work on.
+Tags: Group projects, Hilarious, Caring
+
+[Review 22] Course: CSC1301 | Date: 2023-04-06
+His lectures are boring but he makes up for it with his humor. You won't learn much about Python and coding solely from lectures, so prepare to teach yourself most things. The in-class assignments and quizzes were all on TopHat and fairly easy. Just study and do your work and you will get an A.
+Tags: Hilarious, Caring, Online Savvy
+
+[Review 23] Course: CSC1301 | Date: 2023-03-28
+I enjoyed his teaching style bc he kept me engaged. I came in w/ no knowledge of python & labs helped with his class a lot. Zybooks is used for hw. I feel like I learned the most in his class compared to my other comp sci courses. However, you will have to teach yourself some material. I would most def take him again if he taught other courses.
+Tags: Respected
+
+[Review 24] Course: CS1301 | Date: 2023-03-23
+Class is easy if you know python beforehand. If you go into his class without knowing python then you'll struggle. He's a cool professor, but don't rely on him to teach you. 4 quizzes, 1 midterm, online HW via Zybooks. Takes attendance via Tophat, but not consistent. In-class assignments via tophat as well.
+Tags: Group projects, Accessible outside class
+
+[Review 25] Course: CS1301 | Date: 2023-01-19
+He's a great guy and is very caring for his students. As a professor, he wasn't that great. I couldn't tell when he's teaching or just going off topic. I learned more from the labs than lecture. Assignments and tests always have typos or grammar mistake. A lot of people don't pay attention to lecture and cheat on the tests. Very easy A+
+Tags: Caring
+
+[Review 26] Course: CSC1301 | Date: 2023-01-05
+He is a respected teacher for a reason - but if your tryna actually to learn something you gonna have to be dedicated to learning by yourself or have a friend who already knows it. - He has a very disorganized teaching style, uses Tophat for hw/tests & grades easy - Mostly busy work and not learning anything new / we barely covered any material...
+Tags: Hilarious, Respected, Graded by few things
+
+[Review 27] Course: CSC1301 | Date: 2022-12-25
+F2021 took the class in Java. He has a disorganized teaching style, uses Tophat for hw/tests, and grades easy. I took the class in person but tests were online without camera but with lockdown browser. I felt like I didn't learn anything because we DIDNT CODE UNTIL LIKE THE 7TH OR 8TH WEEK--only reason I learned was because of my lab instructor.
+
+[Review 28] Course: CSC1301 | Date: 2022-12-23
+Louis Henry was an ok professor. He wasn't bad but not good. His teaching style was very fun and sometimes in class he'd show up in a funny mood. He'd give several in class questions and some of them appear on the quizzes, but the quizzes usually have one or two questions which come from material not discussed in class or in the lecture PPT's.
+
+[Review 29] Course: CSC1301 | Date: 2022-12-20
+Easy class, meh professor. He leaves everything up to the TA's and they are really bad at grading things. Every quiz I was handed back had at least 1 or 2 grading errors on it. He doesn't teach much, but show up and do the zybooks/homeworks. You'll get an A.
+Tags: Participation matters, EXTRA CREDIT
+
+[Review 30] Course: CSC1301 | Date: 2022-12-12
+Unclear grading criteria, inaccessible outside of class despite having a discord for the class. He does not seem very online savvy. His quizzes are written poorly which results is lower grades than what reflects your knowledge. He ran out of material to very early. He seems more interested in trying to be the 'cool' professor than trying to teach.
+
+[Review 31] Course: CSC1301 | Date: 2022-12-06
+He's not a bad professor, but he's also not the best professor. He is very tech savy and communicates through discord. Attendance counts and is on a website called Tophat. His lectures tend to be a little boring and he tends to get off topic a lot. We barely have homework, but had weekly zybook assignments, and weekly lab assignments. No final.
+Tags: Group projects, Clear grading criteria, Online Savvy
+
+[Review 32] Course: CS1301 | Date: 2022-11-01
+Class is really easy, if not its just a skill diff tbh. Lectures are posted online if needed, any help for projects is from your assigned TA so don't expect him to help you if you have a TA. The have no real correlation with coding, but as long as you understand the basics of coding you'll be fine.
+Tags: Clear grading criteria, Hilarious, Graded by few things
+
+[Review 33] Course: CS1301 | Date: 2022-05-06
+To put it simply, he is very unprofessional. He was absent for almost 50% of the classes. Half of his messages and updates had typos in them. He was very detached from teaching and is more focused on getting the day done. His teaching style makes it so that you have to teach yourself out of the class. He didn't explain much and I didn't learn much.
+Tags: Lots of homework, Beware of pop quizzes, Graded by few things
+
+[Review 34] Course: CSC1301 | Date: 2022-05-05
+Contrary to previous comments I'd say I learned a lot from him, but most importantly he got me really interested in cs. He is a very funny prof that is also approachable and willing to help. His class was pretty easy once you grasp the concepts. He's a great professor and I'd definitely take him again
+Tags: Respected, Accessible outside class, Online Savvy
+
+[Review 35] Course: CSC4370 | Date: 2022-04-30
+One of the WORST teachers I have ever had to take. DO NOT TAKE HIM IF YOU HAVE THE OPTION TO TAKE SOMEONE ELSE!!!! He gives multiple assignments a week with terrible instructions and if you ask him for help he gets annoyed! He is not understanding whatsoever and goes off topic a lot during lectures and forgets to teach anything! DON'T TAKE HIM!!!!
+Tags: Tough grader, Group projects, Lots of homework
+
+[Review 36] Course: CSC1301 | Date: 2022-04-21
+I do not care what other people say, he was one of the best teachers I ever had at this college. I would die to take him again. I wish he taught CSC 1302, I would have definitely taken him again. He is funny, easy going, not that much work, great personality, always reachable, and is a fast responder as well. He is absolutely worth the hype on God!
+Tags: Gives good feedback, Hilarious, Accessible outside class
+
+[Review 37] Course: CSC4370 | Date: 2022-03-10
+Lots of assignments with unclear instructions, alot of self learning and figuring things out on your own
+Tags: Lots of homework
+
+[Review 38] Course: CSC1301 | Date: 2022-02-21
+He is funny but he is the worst professor I ever witnessed in terms of teaching materials to students. His quizzes and homework do not have clear guidelines or explanations. I can tell his foundation in Computer Science is very weak at least that's the impression I got by taking his class.
+
+[Review 39] Course: CSC1301 | Date: 2022-01-24
+His CSC1301 class is very easy--too easy. He doesn't really teach. If you want to have a solid foundation for comp sci, don't take his class. If you just want a good grade, take his class.
+
+[Review 40] Course: CSC1301 | Date: 2021-12-14
+Lectures are a bit confusing, he skips around a lot because he likes to joke around in his classes. I didn't find them very engaging but it seems like a lot of other people did. Usually two assignments a week (one homework and one lab). Pretty easy A, just do your work. He uses discord so asking questions is easy and he replies fast.
+Tags: Gives good feedback, Lots of homework, Accessible outside class
+
+[Review 41] Course: CSC1301 | Date: 2021-11-17
+Hw every week (programming, mindtap and tophat), Takes attendance on tophat, uses eclipse to program, uses tophat and cengage (both paid), 4 quizzes 1 midterm. His lectures aren't the best becuase he pracitally reviews the topics assuming we have prior knowlegde, so if you don't have prior knowlegde you'll have to review before or after lectures.
+
+[Review 42] Course: CSC1301 | Date: 2021-11-10
+The schedule of the class was a bit confusing and jarring, but he is a good professor and the tests are pretty easy, the class is no doubt an easy A. he uses discord so he can respond pretty quickly to students and the homework, sometimes tedious, is never usually that hard
+Tags: Accessible outside class, Clear grading criteria, Hilarious
+
+[Review 43] Course: CSC1301 | Date: 2021-08-17
+Really funny professor that cares a lot. I already knew a bit about this class beforehand. He's accessible outside of class and gives lots of quizzes that are straightforward and easy
+Tags: Lots of homework, Hilarious, Amazing lectures
+
+[Review 44] Course: CSC1301 | Date: 2021-04-29
+Attended lecture but personally didn't learn much, and I learned a lot more from researching, videos, and completing assignments. Graders are a bit harsh on grading. Professor is funny at times, but that's about the only memorable part of the course. I don't think professor matters too much since you have to self study anyways.
+Tags: Lots of homework, Participation matters, Test heavy
+
+[Review 45] Course: CSC1010 | Date: 2021-04-15
+Very easy A. There were powerpoints, textbook readings and quizzes that went with them, projects, and exams. Everything is easy as long as you put decent effort into studying and the instructions for the projects were always very clear and detailed.
+Tags: Accessible outside class, Graded by few things, Clear grading criteria
+
+[Review 46] Course: CSC4370 | Date: 2021-02-08
+3 .5 years First time to write something. just don't take him unless you have one class for one semester.
+
+[Review 47] Course: CSC4370 | Date: 2020-12-18
+This instructor failed to plan properly. We ended up getting 2 extra assignments instead of a final project because he could not find one to copy. His assignment prompts are hard to follow, likely because they are copied from so many separate sources. He also doesn't proofread his code. There were syntax errors everywhere. A CS TEACHER!
+Tags: Group projects, Lecture heavy
+
+[Review 48] Course: CSC4370 | Date: 2020-10-29
+Ive ready many reviews praising this professor. I am having him online right now. but Id say his class is abysmal. Assigns homework that make no sense sometimes and have no clear guidelines. The workload and due dates can be unforgiving. Maybe hes okay teaching low level CS classes but not 4000+ level ones.
+Tags: Lots of homework
+
+[Review 49] Course: CSC1301 | Date: 2020-03-18
+i don't learn anything from his lectures. you mostly learn from the hw/lab assignments (which you have to complete by teaching yourself). the quizzes and tests are okay. you have to pay for an online access code + tophat.
+Tags: Lots of homework
+
+[Review 50] Course: CSC1010 | Date: 2019-12-21
+No classes needed besides test day. He goes over what will be on the test the day before. Take for an easy A.
+Tags: Accessible outside class, Clear grading criteria, EXTRA CREDIT
+
+[Review 51] Course: CSC1010 | Date: 2019-11-26
+I took this course Fall 2019 This definitely is any easy class so go ahead and take it. Please focus and put in the effort, I definitely could've done more to secure my A. Get the book its $60 and he quizzes are worth 10% for your grade. It adds up. Lectures are definitely not that serious and a breeze. 4 assignments, 4 exams, extra credit.
+Tags: Gives good feedback, Hilarious, EXTRA CREDIT
+
+[Review 52] Course: CSC4370 | Date: 2019-08-06
+Professor Henry is very unorganized in his teaching style. I think it hurts his credibility as an instructor. I thought he was personable and caring. But I thought he made the class too easy. I really think a more organized and disciplined approach would get people learning this information very well.
+Tags: Group projects, Clear grading criteria, Caring
+
+[Review 53] Course: CSC1301 | Date: 2019-05-13
+Took him this past spring semester. He definitely does not know what he is teaching. He tries to teach the stuff in the most difficult way. Lectures are very boring. Literally, copy/pastes his homework from the internet and sometimes he doesn't even change any dates. His tests are heavily graded by his TA's and tests are hard. But he can be funny
+Tags: Respected, Lots of homework, Skip class? You won't pass.
+
+[Review 54] Course: CSC1301 | Date: 2019-05-08
+He is enthusiastic about coding and he tries to go slow enough for everyone to keep up but it is homework heavy. He didn't require a textbook this semester but I don't know if that will change. (His TA's are dreadful though and you have to endure a 1.5 hr lab with them every week, worst part of his class for sure)
+Tags: Lots of homework, Skip class? You won't pass., Lecture heavy
+
+[Review 55] Course: CSC1301 | Date: 2019-05-05
+Forget what these people are saying this professor is a no go. First he cannot teach you how to program and his lectures are enormously boring. He gives out labs and homework that do not make any sense because hes so difficult to learn from. He also gives out a lot of quizzes so make sure you know what youre doing because if you dont good luck.
+Tags: Lots of homework, Skip class? You won't pass., Test heavy
+
+[Review 56] Course: CSC1301 | Date: 2019-04-29
+Great teacher, made me enjoy coding more than I expected.
+Tags: Gives good feedback, Hilarious, EXTRA CREDIT
+
+[Review 57] Course: CSC1301 | Date: 2019-04-06
+Has to be in the top 5 professors I have ever had! Thank you for doing what you do!
+Tags: Gives good feedback, Skip class? You won't pass., Inspirational
+
+[Review 58] Course: CS1301 | Date: 2019-03-12
+Absolutely hate this professor. He teaches in a very unintuitive way and expects us to already know what he is talking about. You'll spend half the semester not even learning how to do any kind of code. He is unable to teach effectively. I learned more from the lab taught by a graduate student than I've ever learned in his lecture.
+
+[Review 59] Course: CSC1010 | Date: 2018-12-18
+Amazing professor made it out the class with an A+. Before coming into this class I never knew anything about computers/coding but hes willing to help. He doesnt take attendance. You dont really need the txt book. Make sure you do the assignments and listen when it comes to exams because its 40-45%.
+Tags: Clear grading criteria
+
+[Review 60] Course: CA1000 | Date: 2018-12-12
+Best professor ever
+Tags: Hilarious, EXTRA CREDIT, GROUP PROJECTS
+
+[Review 61] Course: CIS2010 | Date: 2018-12-12
+Love him
+
+[Review 62] Course: CSC1301 | Date: 2018-12-10
+Good professor for csc 1301 but be prepared to read and understand for urself. And he made the final optional which is good. And we didn't need the textbook. he would be a good choice for 1301
+Tags: Participation matters, LOTS OF HOMEWORK, Amazing lectures
+
+[Review 63] Course: CSC1010 | Date: 2018-12-10
+This class was pretty easy. There are 4 tests and 4 homework assignments. Both are relatively easy. He uploads powerpoints and note outlines in icollege, so going to class is not mandatory although sometimes he gave extra credit for tests if you did come, so take that as you will. Overall, as long as you put in some effort, you will be breezyyy.
+
+[Review 64] Course: CSC1010 | Date: 2018-11-28
+Henry is the best professor there trust me, Henry was so nice its crazy. All quizzes and hw and labs was founded on coursehero it was a smooth A without even trying. I almost felt bad. Henry is the funniest professor I have ever had. DO NOT BUY THE TESTBOOK please save you're 140, you will use my programming lab for 1 HW Assigment. Get Henry
+Tags: Hilarious, Caring, EXTRA CREDIT
+
+[Review 65] Course: CSC1301 | Date: 2018-11-08
+One of the best. I had him for principles of CS 1 and loved him as a professor. He's funny, his lectures are entertaining and informative and he's very interactive and want's to talk to you.
+Tags: Respected, Hilarious, Amazing lectures
+
+[Review 66] Course: CSC2310 | Date: 2018-10-26
+Just a heads up to all CS majors: You learn java by DOING and not through lecture, which is typical of most cs classes. But for lectures, Henry is the one you want! I had him a few semesters ago and I wish all my professors had his way of making the subject fun. He is excited about teaching and very helpful. Im taking him again for html!
+Tags: Gives good feedback, Hilarious, Caring
+
+[Review 67] Course: CSC1301 | Date: 2018-10-21
+If you have any past experience with java and youre going into CSC1301. You will find yourself sleeping through lectures and still passing with high grades. If you dont have experience, look into programming outside of class and your grades will be great.
+
+[Review 68] Course: CSC1301 | Date: 2018-10-18
+Respected and Friendly Prof., but his lectures are hard to understand, he just explains 60% of the topic and the rest you need to figure out, either you have to study a lot to learn or be gifted and have skills in programming.
+Tags: Participation matters, LOTS OF HOMEWORK, LECTURE HEAVY
+
+[Review 69] Course: CSC1301 | Date: 2018-09-10
+He didnt make us buy the textbook which was awesome. I came in with not knowing anything about computer science & he made it easy for me to learn cause he could explain things very well. I didnt even have to take my final because it was optional and still made an A+
+Tags: Participation matters, Clear grading criteria, EXTRA CREDIT
+
+[Review 70] Course: CS1301 | Date: 2018-05-14
+he made java fun
+Tags: Gives good feedback, Respected, Participation matters
+
+[Review 71] Course: CS1301 | Date: 2017-12-13
+the best teacher
+Tags: Gives good feedback, Respected, Participation matters
+
+[Review 72] Course: CS1301 | Date: 2017-11-16
+The best teacher I've ever had. I wasn't initially interested in Comp Sci but Prof Henry inspired me. He is so passionate about his work, funny, and fantastic Absolutely worth the hype. His lectures are clear, engaging, and fun. He always goes out of his way to explain everything patiently. There are countless opportunities to pass class just go
+Tags: Respected, Skip class? You won't pass., LECTURE HEAVY
+
+[Review 73] Course: CS1301 | Date: 2017-10-18
+Amazing professor really loves teaching and wants his students to succeed. He genuinely wants you to do well Funny guy as well. 1 exam lab/quizzes. Labs are great and you should go to all the labs as it is a big chunk of the grade. Try not to miss any at the end, those labs might be a difference in a letter grade. He'll do anything to help you
+Tags: Gives good feedback, Skip class? You won't pass., ACCESSIBLE OUTSIDE CLASS
+
+[Review 74] Course: CS1301 | Date: 2017-10-18
+Dr. Henry is BY FAR the best for 1301 best professor I have had during my college career at GSU . He is extremely passionate about teaching and it is clearly evident by her enthusiasm in his lecture. I learned much more in this class especially JAVA than I had expected to and enjoyed every minute of it. If you have the opportunity, take HIM!!!
+Tags: Respected, Skip class? You won't pass., Amazing lectures
+
+[Review 75] Course: CSC1301 | Date: 2017-10-18
+He is the worst Professor I have ever seen in the Computer Science Department, He doesnt even teach, TA grade your stuff and they mess up alot. Hope they get a better professor than him
+Tags: Tough Grader, BEWARE OF POP QUIZZES, TEST HEAVY
+
+[Review 76] Course: CIS1010 | Date: 2017-10-17
+Very unclear instructions, doesn't know the material, unorganized
+Tags: Get ready to read, BEWARE OF POP QUIZZES
+
+[Review 77] Course: CSC1301 | Date: 2017-08-28
+he does unnecessary things honestly
+Tags: Tough Grader, Skip class? You won't pass., BEWARE OF POP QUIZZES
+
+[Review 78] Course: CSC1301 | Date: 2017-07-27
+I don't even know where to start. This class was so unorganized that Henry didn't even know when our last day of class was or how many assignments he would give us. I spent the semester learning all I could outside of class and taught most of it to myself. I had no prior knowledge and often felt defeated but I learned a lot with no thanks to Henry.
+Tags: Skip class? You won't pass., EXTRA CREDIT
+
+[Review 79] Course: CSC1301 | Date: 2017-07-18
+Professor Henry teaches the material as if everyone knows it already, and we are simply in a review session for an upcoming test. Even when he's not using terms that we've never heard, he explains the material inadequately and gets frustrated if we don't understand or try to ask questions. Easy class if you have prior knowledge. Else, good luck.
+Tags: Tough Grader, LOTS OF HOMEWORK
+
+[Review 80] Course: CSC1010 | Date: 2017-05-05
+Easy class of come to class and listen to the lecture. Very entertaining and explains the material using real life examples so it help you resonate it much faster. The only hard part is the HTML coding. But you learn how to do it, you're guaranteed to pass.
+Tags: Hilarious, LECTURE HEAVY, Clear grading criteria
+
+[Review 81] Course: CSC1301 | Date: 2017-01-07
+Be ready to teach yourself. Students were often loud and disruptive, he occasionally gives out punishment quizzes for this. Easy A if already familiar with material. Questions from quizzes often appear on exams directly. Only buy one semester Top Hat, nobody uses it except him. Nice guy but can be patronizing, does not like to admit he is wrong.
+Tags: Get ready to read, BEWARE OF POP QUIZZES, EXTRA CREDIT
+
+[Review 82] Course: CSC1301 | Date: 2017-01-05
+He's a nice & funny guy, but there wasn't even a syllabus. He wasn't very organized and he rarely answered emails, I always had to end up emailing the lab prof and the graders. Was basically a self teaching class, which is very difficult especially if you're coming in with no prior cs knowledge. He is more helpful going to him after class/own time
+Tags: LOTS OF HOMEWORK, BEWARE OF POP QUIZZES, LECTURE HEAVY
+
+[Review 83] Course: CSC1301 | Date: 2016-12-29
+Professor Henry did not know how to teach and almost always looked unprepared for class. The class is mostly self taught. If you already have a good understanding of basic Java, you'll do better. Henry gets annoyed when you ask him questions in class and doesn't explain the material well. But if you approach him individually, he's more helpful.
+Tags: Get ready to read, BEWARE OF POP QUIZZES
+
+[Review 84] Course: CSC1301 | Date: 2016-12-28
+He was a pretty good teacher. The TA for my lab class was always giving us the wrong work and was awful. Never used the textbook except for the first homework assignment. If you pay attention and ask questions, he will answer them, but he always thinks he's right and threatens with homework and pop quizzes.
+Tags: LOTS OF HOMEWORK, BEWARE OF POP QUIZZES, LECTURE HEAVY
+
+[Review 85] Course: CSC1301 | Date: 2016-12-14
+He's a pretty good teacher who's always open to questions, has hw almost every week to be due the week after, always email him for everything because his assigned graders won't email you back at all. He has 4 quizzes that he 'tries' to treat like pop quizzes, but he usually gives them a week after he first mentions them. YOU NEED TO ATTEND CLASS !!
+Tags: Participation matters, LOTS OF HOMEWORK, BEWARE OF POP QUIZZES
+
+[Review 86] Course: CSC1301 | Date: 2016-12-13
+So ridiculous. Easy class if you already have a strong base in Java. If you don't, you're going to have to do a lot of work on your own. Holds to his own beliefs and hates being wrong. Tries to intimidate you and act all tough. Beware of TopHat!!!!!!
+Tags: Skip class? You won't pass., BEWARE OF POP QUIZZES
+
+[Review 87] Course: CSC1010 | Date: 2016-12-12
+He's alright at best, very easy class though. You are given 5 assignments total, Connect (online textbook, buy it cheap off Amazon) homework, and then 4 tests. His lectures are posted online, there is no need to go to class, all he does is read off them and there is pointless material he talks about in between. If you just want an A, take him.
+Tags: LOTS OF HOMEWORK
+
+[Review 88] Course: CSC2010 | Date: 2016-08-05
+Principles to Computer Science is a pretty simple class. If you do the homework and receive help from the TA's, you'll do well.
+
+[Review 89] Course: CSC2010 | Date: 2016-05-06
+He's not clear in his teaching at all. I couldn't get through without the help of my friends. Lab assistants grade everything so your grade really depends on their leniency (luckily, mine was). I failed the final horribly and had a very low quiz average but still managed to get a B. As much as you'll want to skip, try to go to class.
+
+[Review 90] Course: CSC2010 | Date: 2016-04-29
+Uses a round-about method of teaching. There were multiple occurrences where he answered a question wrong and the class had to correct him. The way he talks to the students is demotivating. Goes off on tangents which is confusing and makes you forget what his original point was. Some lectures were informative, but expect to rely on the textbook!
+
+[Review 91] Course: CSC1010 | Date: 2016-03-31
+He's a good guy. If you read the book, look at the slides he releases, and pay attention in class, then you'll have an easy time. If you want everything spood-fed to you then you might have problems.
+
+[Review 92] Course: CSC2010 | Date: 2016-02-26
+By far the worst professor I have ever had at GSU. He has slides with correct the information but insists on writing his own inaccurate notes. He gives awful explanations and normally just says, "trust me I know what I'm doing." as an explanation. But the worst thing is that he has taught this course several times! Bottom line: Don't take his class
+
+[Review 93] Course: CSC1010 | Date: 2016-02-25
+If you're a little sensitive, I'd recommend another professor. His teaching is not bad, its like a typical lecture and the textbook helps with retaining the information. However, his approach to teaching is a little condescending. He treats his students as if they've never come in contact with tech and brags when we don't understand the material.
+
+[Review 94] Course: CSC1010 | Date: 2016-02-03
+His class is really easy. Just do the Connect homework and you'll do well on the exams.
+
+[Review 95] Course: CSC1010 | Date: 2015-12-05
+If you're looking for an easy B or A then I highly recommend him. Most of the work is common sense. All your homework is online and pretty easy. The tests are directly based on the homework. The hardest part of the class is probably the assignments and the project. Just pay attention when he's going over them and ask questions then you'll be fine.
+
+[Review 96] Course: CSC1010 | Date: 2015-11-30
+This class pretty much gives you an A. Keep up with the Connect Assignments as well doing well on your projects (all are pretty easy except the HTML one). His lectures can be confusing which is why it is best to make friends but he is willing to help you or get you to help. The test are fairly easy IF YOU STUDY. Role is not taken!
+
+[Review 97] Course: CSC1010 | Date: 2015-11-02
+The class is easy enough as long as you show up. The assignments are pretty straightforward, but the tests might require a little studying
+
+[Review 98] Course: CSC2010 | Date: 2015-02-04
+He is not clearly, but you can get a good grade.
+
+[Review 99] Course: CSC1010 | Date: 2015-01-09
+I didn't understand computers or anything about them still after taking his class. Has his TAs grade everything, and emailed him and them many times that they did not grade one of my projects and nothing. notes can become confusing at times because of the way he writes. Tests were the worst if you really know nothing at all about computers.
+
+[Review 100] Course: 2010 | Date: 2015-01-05
+Need a professor to be there when you need him? He is not what you are looking for. He is also a bad loser; he's always making mistakes and never really corrects them. Expect to study by yourself if you wanna get a good grade. I did well just because I was reading an object-oriented programming book by my own while attending classes.
+
+[Review 101] Course: 4370 | Date: 2015-01-05
+Professor Henry is actually one of the better computer science professors that I've had at GSU. Your grade will mostly depend on projects and you will get a sense of what it feels like to work on a team. One mid term, one final, and three group projects.
+
+[Review 102] Course: CSC2010 | Date: 2014-12-25
+Try to avoid this Professor. CSC 2010 Material is easy. But the way he teach is really confusing. He won't teach you anything. You have to teach yourself. No study guide will be provided , both for midterm and final. That means you have no clue what to study for test. I got a D in his class and now i have to repeat that class.. AVOID..
+
+[Review 103] Course: CSC4370 | Date: 2014-12-10
+Decent professor, good dude. Isn't the best at explaining concepts and his notes look like the diary of a fifth grader, but can clearly answer questions you may have. One complaint is that he is worried about coming off bad so if you ask a question he doesn't know the answer to, he'll kinda just spout nonsense. I learned a whole lot in his class.
+
+[Review 104] Course: CSC1010 | Date: 2014-11-11
+tried to give him benefit of the doubt; most of the students who take this class are freshmen. with that comes freshmen attitudes towards confusion and misconception. not hard to keep up; easy tests, easy graders. time consuming projects, but it's college, so. tries to be funny, comes off condescending. multiple EC opportunities if class complains.
+
+[Review 105] Course: CSC1010 | Date: 2014-04-29
+Definitely not the best professor I've had. Material is easy to comprehend, but his way of teaching it is terrible. You'll basically need to teach yourself. I got 100's on all assignments, but the tests can throw you off. However, the final was easy. He just took questions from previous tests. Overall, I'm sure the class average wasn't great.
+
+[Review 106] Course: CSC1010 | Date: 2014-04-21
+Definitely one of the work professors I have ever had at GSU. He is not helpful at all, does not actually teach the material yet he expects you to know every detail on his exams. His exams are also impossible.
+
+[Review 107] Course: CSC1010 | Date: 2014-04-18
+Easy, but boring class. Don't listen to what the fools on this tell you about HTML... he puts everything you need to know about HTML on his WEBSITE! His tests are somewhat difficult but he curves hard and if you don't leave class when you finish the test, he sometimes gives you some of the answers ;)
+
+[Review 108] Course: CSC1010 | Date: 2014-04-13
+He is a funny guy. Really laid back. Tests cover the outlines online. Assignments are straight forward to what they say online. The only difficult parts were the HTML assignment and HTML project. Took me HOURS. Not hard, just time consuming. His helpers grade them, so you get A's on mostly everything.
+
+[Review 109] Course: CSC1010 | Date: 2014-04-03
+I am currently taking Professor Henry's class. I was doing decent before we began talking about HTML. I am now 100% lost in class, and have no clue what he is talking about. I do have both books, but neither one of them have helped me. I would suggest not taking this class!
+
+[Review 110] Course: CSC1010 | Date: 2014-03-11
+I am currently in Professor Henry's class, and I am furious with him. He gives out the most illusive instructions for "projects", and you don't receive any feed back. If you email him for help, don't expect much back. I never once received a full sentence response from him. He never answered any of my questions, and never stays on track in class.
+
+[Review 111] Course: CSC1010 | Date: 2013-11-20
+EASY!!! Don't buy the books, if you have no idea what HTML is rent the book for the 2 weeks we use it and then return it for a refund :)
+
+[Review 112] Course: CSC1010 | Date: 2013-05-08
+Class is pretty straightforward. He tries to be funny sometimes. I didn't open the books that were required at all. Made an A on all assignments and no I'm not a computer genius, I just went to class. Class isn't a breeze but it isn't difficult either.
+
+[Review 113] Course: CSC1010 | Date: 2013-05-05
+This class was changeling, it is not a breeze toward an A. Exams are long, they come from the PowerPoint though. He is a cool guy, knows his stuff.
+
+[Review 114] Course: CSC1010 | Date: 2013-05-03
+Super easy class, you will make an A if you attend and pay attention in class.
+
+[Review 115] Course: CSC1010 | Date: 2013-02-08
+Easy class, I made an A on all of the assignments and HTML project. 2 books but only 1 is require (I only use it for two weeks). Power points are straight forward. Outline notes are very similar to the exam but can be a little challenging. He's cocky but alright, very laid-back with the intro class. Stay awake because it will be boring!!
+
+[Review 116] Course: COMP1010 | Date: 2013-01-03
+This had to have been one of the easiest classes I've ever taken. Professor Henry makes the material and straight to the point using powerpoints and outlined notes that represent the exams. There are 2 books required, but really used one. I'd recommend this to anyone wanting a GPA boost.
+
+[Review 117] Course: CSC1010 | Date: 2012-04-11
+I love this class. It is fairly easy he makes everything simple and easy to relate to. His teaching method is very helpful, I only struggled with the HTML review and thats only because I missed the first few days he went over it, but now I understand the material very well. All you have to do is come to class and do the assignments
+
+[Review 118] Course: CSC1010 | Date: 2012-03-20
+It's not gonna be that easy. If you're a typical college student, that knows the basics of computers, you'll still have to study and put in effort. Tests are a bit hard.
+
+[Review 119] Course: CSC1010 | Date: 2012-02-01
+He can't string a simple sentence together! His assignments are completely pointless, no relation to the material we are learning, and they are written in the worst English grammar possible. He just doesn't care about his intro class because he's been "teaching it for like ever" His words verbatim.
+
+[Review 120] Course: CSC1010 | Date: 2011-12-20
+Go to Class! Be prepared for the exams because they can be challenging. He makes several of the answers sound like the same thing. Attendance is laid back, but, he will drop you if he catches you after several checks.
+
+[Review 121] Course: CSC1010 | Date: 2011-12-13
+He's alright. Attendance is rarely necessary. It is a VERY basic course and if you know what a batch file or how how a hard drive works you won't have to try. The assignments are very tedious and you don't learn much from them, but they're very easy.
+
+[Review 122] Course: CSC1010 | Date: 2011-12-05
+He's very casual, if you go to class every day you'll do fine. He has no interest in failing you, he likes what he teaches and he can keep your interest.
+
+[Review 123] Course: CSC1010 | Date: 2011-12-02
+His lectures were a little boring but it was an easy class!!
+
+[Review 124] Course: CA1000 | Date: 2011-10-05
+I would not recommend this class. If you have no interest in computers then STAY AWAY! The teacher is not helpful, the class takes a lot of effort no one wants to put forth and the subject is BORING! My councilor recommended it and i hated it!!!
+
+[Review 125] Course: CSC1010 | Date: 2011-10-05
+He is really awesome. He did miss a couple of classes and we had to play "catch-up", but I haven't read or done any practice tests and got a B on my first exam. If you listen and print out the outlines, you are golden. :)
+
+[Review 126] Course: CSC1010 | Date: 2011-05-06
+Easy A. The final was cumulative was the only thing that pissed me off. Other than that, the class is a breeze. He posts a practice test site to study for the test. Use that site + the outlines he gives and you'll pass the tests. The assigmts are OFFENSIVELY easy...the project is annoying but easy as well. He's not bad to look at either..SEXY!
+
+[Review 127] Course: CSC1010 | Date: 2011-04-22
+Easiest class I've taken at GSU. 3 test, 4 assignments, 1 project and a final exam. The TAs grade pretty lenient and the HTML project isnt hard, it just takes a lot of time. Just study the chapter outlines on his website and you'll do fine.
+
+[Review 128] Course: CSC2310 | Date: 2011-03-21
+If you value your time and gpa do not take this class. Does no understand java at all. He gets confused and then ditches the problem all together. He assumes that everyone already knows java and his teaching corresponds that. TERRIBLE TEACHER
+
+[Review 129] Course: CSC1010 | Date: 2011-01-28
+Easy teacher, Easy class. Most of the material can be found on the internet but if you don't know how to find it, then this class will help you. Grading is lenient, the tests are easy, lenient on attendance. Funny guy.
+
+[Review 130] Course: CSC1010 | Date: 2010-12-01
+Love him! Very easy going personality. 4 assignments & a project, all super easy if you follow the simple guidelines. Attendance not mandatory but I'd imagine the class would be difficult for someone who didn't attend b/c he tells you what you do & don't need to know for the tests. Not bad 2 look at either :). Easiest A+ of the semester!
+
+[Review 131] Course: CSC1010 | Date: 2010-07-23
+Easy class. He gives "pop quizzes" but uses the points as extra credit on tests. Projects and assignments are easy, and the tests aren't too bad. He likes to change the dates of tests and doesn't like to give make up exams, so showing up in class is a good idea.
+
+[Review 132] Course: CSC1010 | Date: 2010-05-03
+Don't worry if you don't know anything about CSC, he's very helpful. I took this because I hate math & science (I'm a writer). SUPER easy A+! Don't need the bookS, just get someone to copy the few pages you need from it for the 1 assignment that uses a book. Test are from online outline, courseport quizzes help too. If you dont get coding google it
+
+[Review 133] Course: CSC1010 | Date: 2010-04-07
+Pretty easy class.. dont take notes off of his powerpoint.. that stuff isnt on the test. Study the chapters and take the practice tests. You really dont have to show up to class. easy projects but hard tests
+
+[Review 134] Course: CSC1010 | Date: 2009-08-02
+If you know anything about computers, this will be a very easy class. Assignments are easy, notes online, & he'll tell you what will be on the test (taking the practice tests can help too.) His TAs will grade all your stuff and they're usually pretty lenient.
+
+[Review 135] Course: CSC2310 | Date: 2009-05-29
+Easy class if you know a little about Java already. If not then you might want to take someone else, or study your butt off. But he knows his stuff and it is an easy A
+
+[Review 136] Course: CSC1010 | Date: 2009-05-19
+CSC 1010 is his "baby" so he makes the class WAY too hard and engaging for a 1000 level class. Rarely used the book. Wastes class time. Attendance is not necessary. 4 tests. 1 HTML project. Lots of small, pointless assignments. Gives notes from a Powerpoint. Online practice tests. I would not recommend him, but who else is better?
+
+[Review 137] Course: CSC1010 | Date: 2009-05-15
+Very laid back prof. I don't think attendance was mandatory, but he did take roles. Just buy the html text; you don't need the other one. The html project is extremely easy if you have some preknowledge about html. For the tests, just study your notes, and you should be fine. Overall his class was really easy.
+
+[Review 138] Course: CSC1010 | Date: 2009-04-13
+His class is okay. It's not super easy, but it's definitely not hard. HTML was the worst. I had no idea what I was doing. His assignments are annoying, but manageable. I heard he was a lot easier than all the other CSC 1010 professors.
+
+[Review 139] Course: CSC2110 | Date: 2009-03-18
+For those who already know about programming a little bit, especially with Java, his class is so easy. But, those who knows nothing about programming, you have to work hard by yourself. Often time, his lecture is confusing. And, he often goes back and forward. But, he is a fun guy. His class is not boring at all.
+
+[Review 140] Course: CSC2010 | Date: 2008-12-30
+amazing class
+
+[Review 141] Course: CSC1010 | Date: 2008-12-19
+This is one of the best teachers at gsu. anybody who didn't like his class can go straight to hell. It was easy and you don't need to any books. i got an A without them. The only way you can fail is if you have never seen or heard of a computer before.
+
+[Review 142] Course: CSC1010 | Date: 2008-12-08
+Prof Henry is the man. he gives extra credit for coming to class, his tests are easy, and his projects are even easier. don't buy the main text book just the html one. do your assignments and study the practice tests questions that are online and you shoul get an A or B.
+
+[Review 143] Course: CSC1010 | Date: 2008-10-28
+He is a very nice teacher. He doesnt give a syllabus, everything you need to know he puts on his class website. The only book you need is the html book for a project. The assignments are easy and the test come straight from the online notes. I would recommend him.
+
+[Review 144] Course: CSC1010 | Date: 2008-08-01
+He is very easy. well you really cant make this class hard. he explains things if you dont get it. he rarely uses the textbook. the only book your actually need is the HTML workbook for your project. has 4 assignments, 3 tests, 1 exam. (summer) VERY VERY EASY!! he is willing to help if you dont understand.
+
+[Review 145] Course: CSC1010 | Date: 2008-07-21
+He can be confusing at times. Really nice and is more than happy to explain and help you. Can be boring at times, but overall he is a fair teacher. You do need the book because he gives assignemts out of it. He has notes online, which help a lot.
+
+[Review 146] Course: CSC1010 | Date: 2008-06-10
+good
+
+[Review 147] Course: CSC1010 | Date: 2008-06-08
+This is one of the best class ever. Louis Henry is extremely inteligent and helpful. I love this class learned alot . $HIGHLY RECOMMENDED$
+
+[Review 148] Course: CSC1010 | Date: 2008-05-14
+Louis is one of the most incompetent teachers I have ever encountered. He has trouble explaining even the most basic concepts, and he struggles to speak in complete sentences. Being exposed to Louis Henry will drop your IQ 10 points on first contact, avoid him if you can.
+
+[Review 149] Course: CSC1010 | Date: 2008-01-07
+This class was pretty easy. He tells you the very basic things about about computers, programs, and software. The only thing that was challenging was the HTML. Just take good notes and should do fine on the tests (just like online practice quizzes, tests)
+
+[Review 150] Course: CSC1010 | Date: 2007-12-09
+this class is easy if you have ever upgraded your computer personally. he is a little unclear, but ask away and he goes into detail! barely use text book, except for html guide book. tests are multiple choice and ask questions you would have not thought to study. but HIGHLY RECOMMENDED!!!
+
+[Review 151] Course: CSC1010 | Date: 2007-10-25
+SOOOOO HOTTTT it is a shame!!!!! As for his class, its vry easy. If you read the online notes and pay attention, you'll do fine. Crap loads of extra credit and he is always willing to help. Did I mention that he's hottt?????
+
+[Review 152] Course: CSC1010 | Date: 2007-10-11
+subject is SOOOO EASY but he is a horrible teacher. His tests rarely had much to do with his lecture (all of it came straight from the book, which he told us that we didn't have to read). Very spacey guy, and he doesn't know how to explain things. Would repeat himself a lot for no reason. If you're looking for an easy A, take someone else!
+
+[Review 153] Course: CIS1010 | Date: 2007-07-31
+Great teacher. But has boring personality and dry sense of humor.
+
+[Review 154] Course: CSC1010 | Date: 2007-05-07
+He's a cool guy and you'll get a good grade if u simply look at his online notes and take the online practice tests. Plus he gves so much extra credit its ridiculous, for example just printing out an article about nanotechnology, there is something wrong with u if u think thats hard.I never used the books and and I got a good grade.
+
+[Review 155] Course: CSCJAVA | Date: 2007-03-15
+Worse Teacher Ever, Extremly lazy, never willing to write on the board even students have been requested times. If you HAVE TO take him, you'd better have a private tutor on the side. b/c you ain't learn any thing from this person.
+
+[Review 156] Course: CSC1010 | Date: 2006-12-29
+This is a miserable excuse of a professor. He has a profound distaste for anyone calling the veracity of his tests into question. He's just lazy and a rotten scalawag. If you take him you might as well go ahead and shove a fork in your ear because his manner of teaching will rupture your eardrum in a far more painful manner than the latter.
+
+[Review 157] Course: CSC1010 | Date: 2006-12-17
+He is very spacey. It is 4 exams(including the final.), 4 assignments. The notes are on his website. Study notes and take the practice test.
+
+[Review 158] Course: CIS2010 | Date: 2006-10-27
+The questions on the tests are so random and ridiculous, and NOTHING comes out of the lectures. I learned nothing in this class at all. He's soooo hot tho, so the fact that he was a little ditsy didn't matter.
+
+[Review 159] Course: JAVA | Date: 2006-07-19
+This teacher sucks. He is always late. He doesn't know JAVA. He can't help you if you don't understand him. Plan on learning everything yourself.
+
+[Review 160] Course: CSC1010 | Date: 2005-08-23
+For such a bullcrap easy class, and given that I am very proficient in computers, my getting a B in here was RIDICULOUS. He is the most unclear, spacy guy ever. The questions on the tests are so random and ridiculous, and NOTHING comes out of the lectures. I learned nothing in this class at all.
+
+[Review 161] Course: JAVA | Date: 2005-04-23
+He doesn't have any idea about programming, very vague and unclear, arrogant and confused at the same time. You can get a good grade easily though, just don't count on him teaching you anything, work on your own.
+
+[Review 162] Course: CSC1010 | Date: 2005-04-05
+easy as pie. short classes. sporadic attendance checks. lots of opportunities for extra credit. very fair. practical projects. good intro. makes class fun.
+
+[Review 163] Course: CSC2310 | Date: 2004-12-08
+His English sucks! The questions was unclear on the tests and confusing as well. He changes the test date whenever he wants (which won't give much time to prepare).He is not good with JAVA. He wasn't able solve the problem in my programs. He spent 20-30min and pissed off and redo the whole program.
+
+[Review 164] Course: CSC2310 | Date: 2004-11-22
+He cared much more about us making sure we saw that he knew the stuff and much less about teaching us anything. He was commonly unprepared, and often gave wrong information.
+
+[Review 165] Course: CSC2310 | Date: 2004-11-15
+He's a great professor, but he expects a lot out of you. He also gives out quizzes to boost your grade if you're on the borderline.
+
+[Review 166] Course: CSC2310 | Date: 2004-09-18
+He's easy b/c his test questions are from the book, but he doesn't have a grasp on Java. There were many questions about syntax he couldn't answer & he didn't know how to explain Obj-Oriented material at all. He also missed 4 days of a Summer semester!!!

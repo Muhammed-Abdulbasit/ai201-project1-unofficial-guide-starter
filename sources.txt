@@ -1,0 +1,14 @@
+# Document sources — one RateMyProfessors professor URL per line.
+# Lines starting with '#' and blank lines are ignored.
+# These are CS professors at Georgia State University.
+
+https://www.ratemyprofessors.com/professor/2942443
+https://www.ratemyprofessors.com/professor/458011
+https://www.ratemyprofessors.com/professor/3126576
+https://www.ratemyprofessors.com/professor/2782285
+https://www.ratemyprofessors.com/professor/2910619
+https://www.ratemyprofessors.com/professor/3075860
+https://www.ratemyprofessors.com/professor/2056921
+https://www.ratemyprofessors.com/professor/418488
+https://www.ratemyprofessors.com/professor/2317655
+https://www.ratemyprofessors.com/professor/1311577
