@@ -4,8 +4,9 @@ groq==0.15.0
 python-dotenv==1.0.1
 requests>=2.31.0   # document ingestion — RateMyProfessors GraphQL fetch in ingest.py
 
-# Query interface — add whichever you use for Milestone 5:
-# gradio>=6.9.0
+# Query interface (Milestone 5) — browser chat UI in app.py.
+# gradio 4.x is pinned for Python 3.9 compatibility (gradio 5+ needs Python 3.10+).
+gradio>=4.44,<5
 # streamlit>=1.40.0
 
 # Document ingestion — add if your documents/ folder contains .pdf files:

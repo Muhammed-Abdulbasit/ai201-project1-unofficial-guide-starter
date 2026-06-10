@@ -10,13 +10,31 @@ store + retrieval) → `generate.py` (grounded generation + interface).
 
 ### Running it
 
+**One-time setup:**
 ```bash
+python -m venv .venv && source .venv/bin/activate   # (Windows: .venv\Scripts\activate)
 pip install -r requirements.txt
-cp .env.example .env          # add your free Groq API key (https://console.groq.com)
+cp .env.example .env          # then paste your free Groq API key (https://console.groq.com)
+```
 
+**Build the knowledge base** (run once, or whenever you change `sources.txt`):
+```bash
 python ingest.py              # fetch reviews, clean, chunk -> chunks.json + documents/
-python embed.py --rebuild     # embed chunks into ChromaDB + run retrieval test
-python generate.py            # interactive Q&A  (--eval runs the 5 eval questions)
+python embed.py --rebuild     # embed chunks into ChromaDB (also prints a retrieval test)
+```
+
+**Launch the app:**
+```bash
+python app.py                 # open the printed http://127.0.0.1:7860 link in your browser
+```
+A chat page opens with example questions you can click — just type a question
+about a GSU CS professor and read the grounded answer plus its sources.
+
+**Command-line alternatives** (no browser):
+```bash
+python generate.py            # interactive Q&A in the terminal
+python generate.py --eval     # run the 5 evaluation-plan questions
+python generate.py --query "Is Professor Henry's grading fair?"
 ```
 
 ---
@@ -159,30 +177,30 @@ professor is found, but the specific sub-topic detail isn't always in the top 5.
 ## Failure Case Analysis
 
 **Question that failed:**
-What do students say about Professor Kuzmin's extra credit opportunities?
+What do students say about Professor Sadasivuni's course organization?
+(Expected: very disorganized and changes things last minute.)
 
 **What the system returned:**
-A correct but thin answer: it reported that tests carried ~60 points of extra
-credit and were considered easy, citing a single source [4], and noted that no
-other review mentioned extra credit. The answer happened to be accurate, but it
-rested on just one of the five retrieved chunks — a fragile result.
+It correctly reported the course as "disorganized" with low-value lectures and
+tests that don't match the slides, but it **omitted the "changes things last
+minute" half** of the expected answer entirely.
 
 **Root cause (tied to a specific pipeline stage):**
-This is a **retrieval-ranking** weakness. Four of the five chunks returned for the
-query were genuinely about Kuzmin but praised him generally (caring,
-knowledgeable, good lectures) rather than discussing extra credit; only one chunk
-actually mentioned it, and it ranked 4th (distance 0.532). Because most Kuzmin
-reviews are general praise, semantic similarity favored "great professor" chunks
-over the rarer, more specific "extra credit" mention. With top-k = 5 the relevant
-chunk was barely included; a smaller k, or a professor with more general reviews,
-would have pushed it out of the context entirely and produced a "not enough
-information" answer despite the fact existing in the corpus.
+This is a **retrieval-ranking** failure, not a generation failure. The corpus
+*does* contain the missing fact — one review states she "changes deadlines... and
+changes course rules all of a sudden," and another describes "changing grade
+weights last minute." But for the query phrase *"course organization"* the
+embedding model ranked five general "disorganized / confusing" reviews higher
+(cosine distances 0.411–0.446), and the most on-point last-minute-change review
+ranked **15th (distance 0.458)** — outside the top-5 window. The generator can
+only ground on the chunks it receives, so that detail never reached it. The fix
+isn't a better prompt; the relevant evidence simply wasn't retrieved.
 
 **What you would change to fix it:**
 (a) Retrieve a larger candidate set and re-rank, or raise top-k for facet
-questions; (b) add a keyword/BM25 hybrid retrieval step so a distinctive term like
-"extra credit" isn't lost to pure semantic similarity; (c) optionally upgrade to a
-stronger embedding model better at separating specific facets within
+questions; (b) add a keyword/BM25 hybrid retrieval step so a distinctive phrase
+like "last minute" isn't lost to pure semantic similarity; (c) optionally upgrade
+to a stronger embedding model better at separating specific facets within
 otherwise-similar reviews.
 
 ---
@@ -238,5 +256,6 @@ code stay in sync.
 - *What I changed or overrode:* I verified grounding explicitly by testing an
   out-of-corpus question and confirming the system refused to answer rather than
   hallucinating, and I had the eval results recorded honestly — including the two
-  partially-accurate facet misses and the fragile single-source Kuzmin answer —
-  rather than presenting a suspiciously perfect score.
+  partially-accurate facet misses (Weeks and Sadasivuni), where the correct detail
+  existed in the corpus but ranked outside the retrieved top-5 — rather than
+  presenting a suspiciously perfect score.
